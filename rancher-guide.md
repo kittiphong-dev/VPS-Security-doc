@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rancher/rancher/master/assets/logo.png" width="220" alt="Rancher Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rancher.png" width="150" alt="Rancher Logo" />
 </p>
 
 # คู่มือสรุปการติดตั้ง Helm และ Rancher Server บน Kubernetes จำลองด้วย K3d (Step-by-Step)

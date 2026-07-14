@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k3s-io/k3s/master/assets/k3s-logo-light.svg" width="220" alt="K3s Logo" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/k3s/icon/color/k3s-icon-color.png" width="150" alt="K3s Logo" />
 </p>
 
 # คู่มือสรุปการติดตั้งและใช้งาน K3s (Kubernetes) บน VPS Ubuntu (Step-by-Step)
