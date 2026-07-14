@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://assets.ubuntu.com/v1/8281882f-CoF_white_on_orange_transparent.png" width="150" alt="Ubuntu Logo" />
+</p>
+
 # คู่มือพื้นฐาน VPS Security (ความปลอดภัยบน Server ที่ Dev ควรรู้!)
 
 คู่มือฉบับนี้สรุปเนื้อหาและคำสั่งทีละขั้นตอน (Step-by-Step) จากวิดีโอช่อง MilerDev (EP.6) สำหรับผู้เริ่มต้นใช้งาน VPS (แนะนำระบบปฏิบัติการ Ubuntu 22.04 LTS) เพื่อช่วยลดความเสี่ยงจากการถูกโจมตีตั้งแต่แรกเริ่มติดตั้งระบบ

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="150" alt="Docker Logo" />
+</p>
+
 # คู่มือสรุปการใช้งาน Docker บน VPS Ubuntu (Step-by-Step)
 
 คู่มือฉบับนี้สรุปเนื้อหาและคำสั่งทั้งหมดจากวิดีโอ **"สอนใช้งาน Docker บน VPS ระบบ Ubuntu ดูจบบรรลุ! | EP.5"** เพื่อแนะนำขั้นตอนการติดตั้ง ตั้งค่า Firewall, ติดตั้ง Docker, Deploy Node.js API แอปพลิเคชันผ่าน Docker Compose, ตั้ง Reverse Proxy ด้วย Nginx และการออกใบรับรอง SSL (HTTPS) แบบเข้าใจง่ายและพร้อมใช้งานจริง

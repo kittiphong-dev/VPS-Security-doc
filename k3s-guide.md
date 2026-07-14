@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k3s-io/k3s/master/assets/k3s-logo-light.svg" width="220" alt="K3s Logo" />
+</p>
+
 # คู่มือสรุปการติดตั้งและใช้งาน K3s (Kubernetes) บน VPS Ubuntu (Step-by-Step)
 
 คู่มือฉบับนี้สรุปขั้นตอนการติดตั้งและตั้งค่าระบบ Kubernetes ย่อส่วน (Lightweight Kubernetes - K3s) บนเซิร์ฟเวอร์ Ubuntu เพื่อสร้าง Cluster สำหรับจำลองการทำงานของ Master Node และ Worker Node พร้อมขั้นตอนการ Deploy แอปพลิเคชัน Nginx การเปิดพอร์ต (NodePort) และการติดตั้ง Kubernetes Dashboard 

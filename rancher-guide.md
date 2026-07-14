@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rancher/rancher/master/assets/logo.png" width="220" alt="Rancher Logo" />
+</p>
+
 # คู่มือสรุปการติดตั้ง Helm และ Rancher Server บน Kubernetes จำลองด้วย K3d (Step-by-Step)
 
 คู่มือฉบับนี้สรุปขั้นตอนการดาวน์โหลดและติดตั้งเครื่องมือจัดการแพ็กเกจ Kubernetes (Helm) การสร้าง Cluster จำลองโดยใช้ K3d การติดตั้ง Cert-Manager และการ Deploy Rancher Server สำหรับใช้จัดการหน้า GUI ของ Kubernetes Cluster ได้อย่างสะดวกและรวดเร็ว โดยตัดรหัสอ้างอิงเวลา (Timestamps) ออกเพื่อความกระชับและพร้อมนำไปใช้ปฏิบัติงานจริง
