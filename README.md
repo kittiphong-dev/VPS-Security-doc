@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/256px-Logo-ubuntu_cof-orange-hex.png" width="150" alt="Ubuntu Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ubuntu.png" width="150" alt="Ubuntu Logo" />
 </p>
 
 # คู่มือพื้นฐาน VPS Security (ความปลอดภัยบน Server ที่ Dev ควรรู้!)
