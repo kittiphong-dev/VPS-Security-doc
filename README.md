@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ubuntu.png" width="150" alt="Ubuntu Logo" />
+  <img src="https://img.icons8.com/color/512/ubuntu.png" width="150" alt="Ubuntu Logo" />
 </p>
 
 # คู่มือพื้นฐาน VPS Security (ความปลอดภัยบน Server ที่ Dev ควรรู้!)
